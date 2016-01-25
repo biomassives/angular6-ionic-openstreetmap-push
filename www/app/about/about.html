@@ -1,0 +1,30 @@
+<ion-navbar *navbar>
+  <a menu-toggle="leftMenu">
+    <icon menu></icon>
+  </a>
+  <ion-title>About Us</ion-title>
+</ion-navbar>
+
+<ion-content>
+  <div class="about-header">
+    <img src="img/clickpackmove.png">
+  </div>
+  <div padding class="about-info">
+    <h4>{{providerInfo.name}}</h4>
+
+    <div>
+      <icon calendar></icon>
+      <date-format [value]="providerInfo.start" format="MMM D, YYYY"></date-format>
+    </div>
+    <div>
+      <icon pin></icon>
+      <span>{{providerInfo.location}}</span>
+    </div>
+
+    <p>{{providerInfo.about}}</p>
+    
+    <p>{{providerInfo.aboutmore}}</p>
+    
+    <p>{{providerInfo.aboutmore2}}</p>
+  </div>
+</ion-content>
