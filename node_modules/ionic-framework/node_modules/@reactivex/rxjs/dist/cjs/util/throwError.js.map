@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es6/util/throwError.js"],"names":[],"mappings":";;;qBAAwB,UAAU;;AAAnB,SAAS,UAAU,CAAC,CAAC,EAAE;AAAE,QAAM,CAAC,CAAC;CAAE","file":"throwError.js","sourcesContent":["export default function throwError(e) { throw e; }\n//# sourceMappingURL=throwError.js.map"]}

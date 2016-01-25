@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es6/schedulers/nextTick.js"],"names":[],"mappings":";;;;;;iCAA8B,qBAAqB;;;;qBACpC,oCAAuB","file":"nextTick.js","sourcesContent":["import NextTickScheduler from './NextTickScheduler';\nexport default new NextTickScheduler();\n//# sourceMappingURL=nextTick.js.map"]}

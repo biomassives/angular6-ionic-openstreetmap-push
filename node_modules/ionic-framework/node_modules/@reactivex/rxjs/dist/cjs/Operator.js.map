@@ -1,0 +1,1 @@
+{"version":3,"sources":["../es6/Operator.js"],"names":[],"mappings":";;;;;;;0BAAuB,cAAc;;;;AAC9B,SAAS,aAAa,CAAC,QAAQ,EAAE;AACpC,WAAO,4BAAe,QAAQ,CAAC,CAAC;CACnC","file":"Operator.js","sourcesContent":["import Subscriber from './Subscriber';\nexport function defaultCallFn(observer) {\n    return new Subscriber(observer);\n}\n//# sourceMappingURL=Operator.js.map"]}

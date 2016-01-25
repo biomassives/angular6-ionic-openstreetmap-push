@@ -1,0 +1,27 @@
+<ion-navbar *navbar>
+  <ion-title>Signup</ion-title>
+</ion-navbar>
+
+<ion-content class="login">
+
+  <ion-list>
+    <div class="logo">
+      <img src="img/appicon.svg">
+    </div>
+
+    <ion-input floating-label>
+      <ion-label primary>Username</ion-label>
+      <input type="text">
+    </ion-input>
+
+    <ion-input floating-label>
+      <ion-label primary>Password</ion-label>
+      <input type="password">
+    </ion-input>
+
+    <div padding>
+      <button (click)="signup()" primary block>Create</button>
+    </div>
+  </ion-list>
+
+</ion-content>

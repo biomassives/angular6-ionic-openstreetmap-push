@@ -1,0 +1,67 @@
+[
+  {
+    "time": "1710 Piedmont Hills Place",
+    "talks": [
+      {
+        "name": "** CityPark View - Save $250 with waived admin and app fee!",
+        "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10_thumbnail.jpg",
+        "location": "Main hallway",
+        "description": "704-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm",
+        "price": "900 to 1100" 
+      }
+    ]
+  },
+  {
+    "time": "3600 Eastover Ridge Dr.",
+    "talks": [
+      {
+        "name": "Eastover Ridge - SAVE $199! WAIVED ADMINISTRATIVE FEE!",
+        "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-8_thumbnail.jpg",
+        "location": "Room 2203",
+        "description": "284-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm.",
+        "speaker": "Brandy Carney",
+        "price": "875 to 1050"
+      }
+    ]
+  },
+  {
+    "time": "2504 Dunavant St.",
+    "talks": [
+      {
+        "name": "JUNCTION 1504",
+         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/158_thumbnail.JPG",
+        "description": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
+        "location": "Room 2201",
+        "description": "Up to 2 pets.",
+        "speaker": "Adam Bradley",
+        "price": "1190 to 1600"
+      }
+    ]
+  },
+  {
+    "time": "6818 Northbury Ln.",
+    "talks": [      
+      {
+        "name": "Marquis At Carmel Commons (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
+        "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg", 
+        "location": "Room 2202",
+        "description": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
+        "speaker": "Ben Sperry",
+        "price": "750 to 850"
+            }
+    ]
+  },
+  {
+    "time": "6905 Poppy Hills Ln",
+    "talks": [      
+      {
+        "name": "Marquis Of Carmel Valley (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
+        "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg",
+        "location": "Room 2202",
+        "description": "704-376-1100, Mon - Fri 9:00am to 6:00pm, Sat: 10:00am to 5:00pm, Sun: 1:00pm to 5:00pm",
+        "speaker": "Eric Bobbitt",
+        "price": "790 to 900"
+      }
+    ]
+  }
+]

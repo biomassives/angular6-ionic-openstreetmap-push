@@ -1,0 +1,16 @@
+
+.listings-list {
+  ion-card.listings ion-card-header .item {
+    padding: 12px;
+  }
+
+  ion-card.listings ion-card-content .list {
+    margin: 0;
+  }
+
+  ion-card.listings ion-card-header,
+  ion-card.listings ion-card-content,
+  ion-card.listings ion-card-content .list ion-item-content, {
+    padding: 0;
+  }
+}

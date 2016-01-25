@@ -1,0 +1,15 @@
+<ion-navbar *navbar>
+  <ion-title>{{listings.name}}</ion-title>
+</ion-navbar>
+
+<ion-content padding>
+  <div class="listings-detail">
+    <img src="{{listings.profile_pic}}">
+    <ion-item no-lines>
+      <h1>{{listings.name}}</h1>
+      <a item-right href="{{listings.twitter}}"><icon ion-social-twitter></icon></a>
+    </ion-item>
+    <p>{{listings.about}}</p>
+  </div>
+
+</ion-content>

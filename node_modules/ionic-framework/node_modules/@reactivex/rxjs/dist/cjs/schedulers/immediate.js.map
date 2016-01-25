@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es6/schedulers/immediate.js"],"names":[],"mappings":";;;;;;kCAA+B,sBAAsB;;;;qBACtC,qCAAwB","file":"immediate.js","sourcesContent":["import ImmediateScheduler from './ImmediateScheduler';\nexport default new ImmediateScheduler();\n//# sourceMappingURL=immediate.js.map"]}

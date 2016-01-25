@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es6/util/isDate.js"],"names":[],"mappings":";;;qBAAwB,MAAM;;AAAf,SAAS,MAAM,CAAC,KAAK,EAAE;AAClC,WAAO,KAAK,YAAY,IAAI,IAAI,CAAC,KAAK,CAAC,CAAC,KAAK,CAAC,CAAC;CAClD","file":"isDate.js","sourcesContent":["export default function isDate(value) {\n    return value instanceof Date && !isNaN(+value);\n}\n//# sourceMappingURL=isDate.js.map"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../es6/util/errorObject.js"],"names":[],"mappings":";;;AAAO,IAAI,WAAW,GAAG,EAAE,CAAC,EAAE,EAAE,EAAE,CAAC","file":"errorObject.js","sourcesContent":["export var errorObject = { e: {} };\n//# sourceMappingURL=errorObject.js.map"]}

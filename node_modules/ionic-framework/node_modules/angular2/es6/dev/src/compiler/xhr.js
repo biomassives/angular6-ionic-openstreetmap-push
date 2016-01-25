@@ -1,0 +1,5 @@
+// TODO: vsavkin rename it into TemplateLoader and do not reexport it via DomAdapter
+export class XHR {
+    get(url) { return null; }
+}
+//# sourceMappingURL=xhr.js.map
