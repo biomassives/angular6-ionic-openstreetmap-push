@@ -10,9 +10,9 @@ import {SchedulePage} from '../schedule/schedule';
 export class TabsPage {
   constructor() {
     // set the root pages for each tab
-    this.tab1Root = SchedulePage;
+    this.tab1Root = AboutPage;
   //  this.tab2Root = ListingsPage;
     this.tab2Root = MapPage;
-    this.tab3Root = AboutPage;
+    this.tab3Root = SchedulePage;
   }
 }
