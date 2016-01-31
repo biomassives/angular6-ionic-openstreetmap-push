@@ -8,7 +8,29 @@
         "location": "Main hallway",
         "description": "704-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm",
         "price": "900 to 1100" ,
-        "infolinktext": "test json data infolink1"
+        "infolinktext": "test json data infolink1",
+        "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_1.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_11.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_12.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_13.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_14.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_15.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_16.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_17.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_18.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_19.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_2.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_20.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_3.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_4.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_5.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_6.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_7.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_8.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_9.jpg"
+            ]
       }
     ]
   },

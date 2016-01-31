@@ -1,7 +1,7 @@
 import {Component, NgIf, NgFor} from 'angular2/angular2';
 import {Config, Icon, Item, ItemSliding, List, ListHeader, NavController, Popup} from 'ionic/ionic';
 import {SessionDetailPage} from '../session-detail/session-detail';
-import {SpeakerDetailPage} from '../speaker-detail/speaker-detail';
+//import {SpeakerDetailPage} from '../speaker-detail/speaker-detail';
 import {DataService} from '../service/data';
 import {DateFormat} from '../date-format/date-format';
 

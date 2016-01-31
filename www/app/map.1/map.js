@@ -1,5 +1,5 @@
 import {Page} from 'ionic/ionic';
-import {DataService} from '../service/data';
+//import {DataService} from '../service/data';
 
 @Page({
   templateUrl: 'app/map/map.html'
