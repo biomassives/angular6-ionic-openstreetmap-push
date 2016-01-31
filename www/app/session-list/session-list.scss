@@ -12,6 +12,11 @@ $categories: (
   navigation: #6600CC,
 );
 
+img {
+  radios: 60px;
+  
+}
+
 @function auxiliary-categories() {
   @return map-remove($categories);
 }

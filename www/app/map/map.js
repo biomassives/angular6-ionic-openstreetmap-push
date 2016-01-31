@@ -9,9 +9,9 @@ export class MapPage {
     this.map = null;
   }
 
-  addMarkerAndInfo(latLng, infoContent, infoLink, infolinkText) {
+  addMarkerAndInfo(latLng, infoContent, infoLink, infolinkText, infoThumb) {
     var infowindow = new google.maps.InfoWindow({
-      content: ['<h5>', infoContent, '</h5><a href="', infoLink, '">', infolinkText, '</a>'].join('')
+      content: ['<img src="', infoThumb , '"></a><h5>', infoContent, '</h5><a href="', infoLink, '">', infolinkText, '</a>'].join('')
     });
 
     var marker = new google.maps.Marker({
@@ -23,6 +23,15 @@ export class MapPage {
     marker.addListener('click', function() {
       infowindow.open(this.map, marker);
     });
+    marker.addListener('mouseover', function() {
+      infowindow.open(this.map, marker);
+    });
+    marker.addListener('mouseout', function() {
+      infowindow.open(this.map, marker);
+    });
+  //  marker.addListener('touch', function() {
+  //    infowindow.open(this.map,marker);
+  //  });
   }
 
 // pass data into here from the jsonsource
@@ -37,9 +46,9 @@ export class MapPage {
       zoom: 12
     });
 
-    this.addMarkerAndInfo(ionicHqLatLng, 'Ionic HQ', 'google.com', 'link1');
-    this.addMarkerAndInfo(conferenceCenterLatLng, 'Conference Center', 'google.com', 'link2');
-    this.addMarkerAndInfo(afterPartyLatLng, 'Afterparty - Brocach Irish Pub', 'google.com', 'link3');
+    this.addMarkerAndInfo(ionicHqLatLng, 'Perimeter Lofts', 'google.com', 'link1','https://clickpackmove.s3.amazonaws.com/media/photos/20131230_101313_thumbnail.jpg');
+    this.addMarkerAndInfo(conferenceCenterLatLng, 'Post South End', 'google.com', 'link2','https://clickpackmove.s3.amazonaws.com/media/photos/apartments-021_thumbnail.jpg');
+    this.addMarkerAndInfo(afterPartyLatLng, 'Rock Creek At Ballantyne - SAVE $100 OFF YOUR MOVE IN!', 'google.com', 'link3','https://clickpackmove.s3.amazonaws.com/media/photos/Piper_Station_2_thumbnail.jpg');
 
   }
 }

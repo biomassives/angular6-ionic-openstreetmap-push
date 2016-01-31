@@ -57,25 +57,11 @@ export class SessionList {
     return false;
   }
 
-  alertFavoriteExists() {
-    this.popup.alert({
-      title: "Oops",
-      template: "That session has been favorited already.",
-    });
-  }
-
   openSession(session, val, event) {
     this.nav.push(SessionDetailPage, session);
     if (event) {
       event.preventDefault();
     }
     return false;
-  }
-
-  openSpeakerDetail(speaker, event, slidingItem) {
-    event.stopPropagation();
-    event.preventDefault();
-    this.nav.push(SpeakerDetailPage, speaker);
-    slidingItem.close();
-  }
+    }
 }

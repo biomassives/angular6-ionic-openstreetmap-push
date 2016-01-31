@@ -1,12 +1,12 @@
-import {NavController, Page, Searchbar, Modal} from 'ionic/ionic';
+import {NavController, Page, Modal} from 'ionic/ionic';
 import {DataService} from '../service/data';
 import {SessionDetailPage} from '../session-detail/session-detail';
-import {SessionFilterPage} from '../session-filter/session-filter';
+//import {SessionFilterPage} from '../session-filter/session-filter';
 import {SessionList} from '../session-list/session-list';
 
 @Page({
   templateUrl: 'app/schedule/schedule.html',
-  directives: [SessionList, Searchbar]
+  directives: [SessionList]
 })
 export class SchedulePage {
   constructor(nav: NavController, dataService: DataService, modal: Modal) {
@@ -15,7 +15,7 @@ export class SchedulePage {
     this.dataService = dataService;
     this.sessions = this.dataService.getSchedule();
     this.scheduleShowing = 'all';
-    this.searchQuery = '';
+    //this.searchQuery = '';
     this.favorites = [];
   }
 
@@ -23,7 +23,7 @@ export class SchedulePage {
     this.nav.push(SessionDetailPage, session);
   }
 
-  filterSessions() {
+  /*filterSessions() {
     // The searchQuery doesn't get updated before this function is called
     // so we have to wrap it in a timeout
     setTimeout(() => {
@@ -53,5 +53,5 @@ export class SchedulePage {
         }
       }
     });
-  }
+  }*/
 }

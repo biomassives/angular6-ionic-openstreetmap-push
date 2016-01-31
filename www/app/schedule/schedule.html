@@ -1,5 +1,6 @@
 <ion-navbar *navbar>
-  <a menu-toggle="leftMenu">
+   <ion-title>Click Pack Move</ion-title>
+  <!--<a menu-toggle="leftMenu">
     <icon menu></icon>
   </a>
   <ion-segment [(ng-model)]="scheduleShowing">
@@ -12,11 +13,11 @@
   </ion-segment>
   <ion-nav-items secondary>
     <button (click)="openScheduleFilter()"><icon ios="ion-ios-funnel-outline" md="ion-md-funnel"></icon></button>
-  </ion-nav-items>
+  </ion-nav-items>-->
 </ion-navbar>
 
 <ion-content>
-  <ion-searchbar primary [(ng-model)]="searchQuery" (input)="filterSessions()" show-cancel="true" placeholder="Search"></ion-searchbar>
+  <!--<ion-searchbar primary [(ng-model)]="searchQuery" (input)="filterSessions()" show-cancel="true" placeholder="Search"></ion-searchbar>-->
   <div [ng-switch]="scheduleShowing">
     <session-list *ng-switch-when="'favorites'" [data]="favorites" showing="favorites"></session-list>
     <session-list *ng-switch-when="'all'" [data]="sessions" [favorites]="favorites" showing="all"></session-list>

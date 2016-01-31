@@ -34,7 +34,6 @@ class ConferenceApp {
       { title: 'Signup', component: SignupPage, icon: 'person-add' },
       { title: 'Logout', component: LoginPage, icon: 'log-out' },
     ];
-
   }
 
   openPage(page) {

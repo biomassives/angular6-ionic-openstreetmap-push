@@ -3,9 +3,12 @@
 </ion-navbar>
 
 <ion-content padding>
-     <img src="{{session.thumb}}">
-  <h4>{{session.name}}</h4>
+    <h2>{{session.name}}</h2>
+  <span><strong>Price: ${{session.price}}</strong></span>  
+     <img src="{{session.thumb}}" style="width:95vw;"><img src="{{session.thumb}}" style="width:95vw;"><img src="{{session.thumb}}" style="width:95vw;">
+
   <h5>{{session.speaker}}</h5>
-  <span>{{session.location}}</span>
+
   <p>{{session.description}}</p>
+  
 </ion-content>

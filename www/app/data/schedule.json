@@ -7,7 +7,8 @@
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10_thumbnail.jpg",
         "location": "Main hallway",
         "description": "704-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm",
-        "price": "900 to 1100" 
+        "price": "900 to 1100" ,
+        "infolinktext": "test json data infolink1"
       }
     ]
   },
@@ -20,7 +21,8 @@
         "location": "Room 2203",
         "description": "284-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm.",
         "speaker": "Brandy Carney",
-        "price": "875 to 1050"
+        "price": "875 to 1050",
+        "infolinktext": "test json data infolink1"
       }
     ]
   },
@@ -34,7 +36,8 @@
         "location": "Room 2201",
         "description": "Up to 2 pets.",
         "speaker": "Adam Bradley",
-        "price": "1190 to 1600"
+        "price": "1190 to 1600",
+        "infolinktext": "test json data infolink1"
       }
     ]
   },
@@ -47,7 +50,9 @@
         "location": "Room 2202",
         "description": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
         "speaker": "Ben Sperry",
-        "price": "750 to 850"
+        "price": "750 to 850",
+        "infolinktext": "test json data infolink1"
+
             }
     ]
   },
@@ -60,7 +65,8 @@
         "location": "Room 2202",
         "description": "704-376-1100, Mon - Fri 9:00am to 6:00pm, Sat: 10:00am to 5:00pm, Sun: 1:00pm to 5:00pm",
         "speaker": "Eric Bobbitt",
-        "price": "790 to 900"
+        "price": "790 to 900",
+        "infolinktext": "test json data infolink1"
       }
     ]
   }
