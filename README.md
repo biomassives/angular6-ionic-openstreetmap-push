@@ -1,14 +1,12 @@
-# angular2-ionic-modified-conference-app
-experiments in preparation of a client app using the great ionic2 framework complete with angular2 internals, no jquery.
+# Ionic 2 Modified Conference Application
 
+Experiments in preparation of a client app using the great ionic2 framework complete with angular2 internals, no jquery.
 
 thank you.
 
+current work is focused around learning and demonstrating best practices for routing and ion-slider approaches
+in ionic2
 
--- from oriignal demo source application....
-
-
-# Ionic 2 Conference Application
 
 This is purely a demo of Ionic v2.0 alpha and is still in development. **There is not an actual Ionic Conference at this time.**
 
