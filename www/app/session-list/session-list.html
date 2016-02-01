@@ -1,7 +1,7 @@
 <ion-list [attr.no-lines]="isMD">
   <ion-item-group [class.hide]="data.length == 0" *ng-for="#timeSlot of data">
     <ion-item-divider sticky>
-      {{timeSlot.time}}
+      {{timeSlot.address}}
     </ion-item-divider>
     <ion-item-sliding *ng-for="#session of timeSlot.talks" [attr.category]="session.category" #sliding-item>
 

@@ -12,9 +12,9 @@ $categories: (
   navigation: #6600CC,
 );
 
-img {
-  radios: 60px;
-  
+.item-avatar {
+  	-webkit-mask-image: -webkit-gradient(
+     radial, 50% 50%, 20, 50% 50%, 590, from(#fff), to(rgba(0,0,0,0)));
 }
 
 @function auxiliary-categories() {

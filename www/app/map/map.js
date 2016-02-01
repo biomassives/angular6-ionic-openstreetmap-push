@@ -11,7 +11,7 @@ export class MapPage {
 
   addMarkerAndInfo(latLng, infoContent, infoLink, infolinkText, infoThumb) {
     var infowindow = new google.maps.InfoWindow({
-      content: ['<img src="', infoThumb , '"></a><h5>', infoContent, '</h5><a href="', infoLink, '">', infolinkText, '</a>'].join('')
+      content: ['<img src="', infoThumb , '"></a><BR><a href="', infoLink, '">', infoContent, '</a>'].join('')
     });
 
     var marker = new google.maps.Marker({

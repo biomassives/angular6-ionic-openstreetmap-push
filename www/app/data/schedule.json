@@ -1,14 +1,13 @@
 [
   {
-    "time": "1710 Piedmont Hills Place",
+    "address": "1710 Piedmont Hills Place",
     "talks": [
       {
         "name": "** CityPark View - Save $250 with waived admin and app fee!",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10_thumbnail.jpg",
         "location": "Main hallway",
         "description": "704-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm",
-        "price": "900 to 1100" ,
-        "infolinktext": "test json data infolink1",
+        "price": "900 to 1100",
         "slide_urls": [
                 "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_1.jpg", 
                 "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10.jpg", 
@@ -35,21 +34,47 @@
     ]
   },
   {
-    "time": "3600 Eastover Ridge Dr.",
+    "address": "3600 Eastover Ridge Dr.",
     "talks": [
       {
         "name": "Eastover Ridge - SAVE $199! WAIVED ADMINISTRATIVE FEE!",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-8_thumbnail.jpg",
         "location": "Room 2203",
         "description": "284-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm.",
-        "speaker": "Brandy Carney",
         "price": "875 to 1050",
-        "infolinktext": "test json data infolink1"
+        "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-1.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-10.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-14.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-15.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-16.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-17.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-18.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-19.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-2.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-20.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-21.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-22.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-23.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-24.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-25.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-26.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-27.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-28.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-29.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-3.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-4.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-5.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-6.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-7.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-8.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-9.jpg"
+            ]
       }
     ]
   },
   {
-    "time": "2504 Dunavant St.",
+    "address": "2504 Dunavant St.",
     "talks": [
       {
         "name": "JUNCTION 1504",
@@ -57,39 +82,109 @@
         "description": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
         "location": "Room 2201",
         "description": "Up to 2 pets.",
-        "speaker": "Adam Bradley",
         "price": "1190 to 1600",
-        "infolinktext": "test json data infolink1"
+        "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/142.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/143.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/144.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/145.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/146.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/147.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/148.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/149.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/150.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/151.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/152.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/153.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/154.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/155.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/156.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/157.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/158.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/159.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/160.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/161.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/162.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/163.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/164.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/165.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/166.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/167.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/168.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/169.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/170.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/171.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/172.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/173.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/174.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/175.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/176.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/138.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/139.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/140.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/141.JPG"
+            ]
       }
     ]
   },
   {
-    "time": "6818 Northbury Ln.",
+    "address": "6818 Northbury Ln.",
     "talks": [      
       {
         "name": "Marquis At Carmel Commons (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg", 
         "location": "Room 2202",
         "description": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
-        "speaker": "Ben Sperry",
         "price": "750 to 850",
-        "infolinktext": "test json data infolink1"
-
-            }
+        "infolinktext": "test json data infolink22",
+        "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-1.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-11.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-12.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-13.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-14.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-15.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-2.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-3.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-4.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-5.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-6.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-7.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-8.jpg"
+            ]
+       }
     ]
   },
   {
-    "time": "6905 Poppy Hills Ln",
+    "address": "6905 Poppy Hills Ln",
     "talks": [      
       {
         "name": "Marquis Of Carmel Valley (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg",
         "location": "Room 2202",
         "description": "704-376-1100, Mon - Fri 9:00am to 6:00pm, Sat: 10:00am to 5:00pm, Sun: 1:00pm to 5:00pm",
-        "speaker": "Eric Bobbitt",
         "price": "790 to 900",
-        "infolinktext": "test json data infolink1"
-      }
+        "lat": "35.1826179",
+        "lng": "-80.9147837",
+        "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_1.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_4.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_5.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_6.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_7.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_8.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_9.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_10.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_11.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_12.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_13.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_14.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_15.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_2.JPG", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/Marquis_At_Carmel_Valley_3.JPG"
+            ]
+        }
     ]
   }
 ]

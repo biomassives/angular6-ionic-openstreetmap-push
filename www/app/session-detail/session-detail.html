@@ -1,17 +1,20 @@
 <ion-navbar *navbar>
-  <ion-title>Property Details</ion-title>
+  <ion-title>Your Listing Details</ion-title>
 </ion-navbar>
 
 <ion-content padding>
     <h2>{{session.name}}</h2>
   <span><strong>Price: ${{session.price}}</strong></span>  
   {{session.images}}
-     <img src="{{session.thumb}}" style="width:95vw;">
-     <img src="{{session.thumb}}" style="width:95vw;">
-     <img src="{{session.thumb}}" style="width:95vw;">
 
   <h5>{{session.speaker}}</h5>
 
   <p>{{session.description}}</p>
   
+  <ion-item-group *ng-for="#timeSlot of session.slide_urls">
+    <ion-item-divider sticky>
+      <img src="{{timeSlot}}" style="width:95vw;">
+    </ion-item-divider>
+  </ion-item-group>
+
 </ion-content>
