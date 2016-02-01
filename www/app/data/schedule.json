@@ -1,7 +1,7 @@
 [
   {
     "address": "1710 Piedmont Hills Place",
-    "talks": [
+    "listings": [
       {
         "name": "** CityPark View - Save $250 with waived admin and app fee!",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10_thumbnail.jpg",
@@ -35,7 +35,7 @@
   },
   {
     "address": "3600 Eastover Ridge Dr.",
-    "talks": [
+    "listings": [
       {
         "name": "Eastover Ridge - SAVE $199! WAIVED ADMINISTRATIVE FEE!",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-8_thumbnail.jpg",
@@ -75,7 +75,7 @@
   },
   {
     "address": "2504 Dunavant St.",
-    "talks": [
+    "listings": [
       {
         "name": "JUNCTION 1504",
          "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/158_thumbnail.JPG",
@@ -129,7 +129,7 @@
   },
   {
     "address": "6818 Northbury Ln.",
-    "talks": [      
+    "listings": [      
       {
         "name": "Marquis At Carmel Commons (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg", 
@@ -158,7 +158,7 @@
   },
   {
     "address": "6905 Poppy Hills Ln",
-    "talks": [      
+    "listings": [      
       {
         "name": "Marquis Of Carmel Valley (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
         "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg",

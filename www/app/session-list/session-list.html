@@ -1,9 +1,9 @@
 <ion-list [attr.no-lines]="isMD">
-  <ion-item-group [class.hide]="data.length == 0" *ng-for="#timeSlot of data">
+  <ion-item-group [class.hide]="data.length == 0" *ng-for="#listing of data">
     <ion-item-divider sticky>
-      {{timeSlot.address}}
+      {{listing.address}}
     </ion-item-divider>
-    <ion-item-sliding *ng-for="#session of timeSlot.talks" [attr.category]="session.category" #sliding-item>
+    <ion-item-sliding *ng-for="#session of listing.listings" [attr.category]="session.category" #sliding-item>
 
       <button ion-item (click)="openSession(session)" class=row>
            
