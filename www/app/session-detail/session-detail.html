@@ -11,9 +11,9 @@
 
   <p>{{session.description}}</p>
   
-  <ion-item-group *ng-for="#timeSlot of session.slide_urls">
+  <ion-item-group *ng-for="#detailimage of session.slide_urls">
     <ion-item-divider sticky>
-      <img src="{{timeSlot}}" style="width:95vw;">
+      <img src="{{detailimage}}" style="width:95vw;">
     </ion-item-divider>
   </ion-item-group>
 
