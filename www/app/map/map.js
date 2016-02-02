@@ -1,5 +1,8 @@
 import {Page} from 'ionic/ionic';
 import {DataService} from '../service/data';
+import {ROUTER_PROVIDERS, LocationStrategy, HashLocationStrategy} from 'ionic/ionic';
+import {ROUTER_DIRECTIVES, RouteConfig, Router, Location, Route} from 'ionic/ionic';
+
 
 @Page({
   templateUrl: 'app/map/map.html'
