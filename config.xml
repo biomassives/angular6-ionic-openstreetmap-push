@@ -2,10 +2,10 @@
 <widget id="io.ionic.conference" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Click Pack Move</name>
     <description>
-        An Ionic Framework application for the Ionic Conference.
+        An Ionic Framework application to demonstrate angular2 routing and detailed view dynamic rendering.
   </description>
     <author email="greg@biomassiv.es" href="http://biomassiv.es/">
-      Ionic Framework Team
+      Biomassives Group Ltd.
   </author>
     <content src="index.html" />
     <access origin="*" />
