@@ -7,6 +7,8 @@ thank you.
 current work is focused around learning and demonstrating best practices for routing and ion-slider approaches
 in ionic2
 
+new typescript branch beinbg updated and added, which has proper data services for the maps and listings, working on 
+how to handle route or object queries via typescript.
 
 This is purely a demo of Ionic v2.0 alpha and is still in development. **There is not an actual Ionic Conference at this time.**
 
