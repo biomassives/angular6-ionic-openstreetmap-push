@@ -12,10 +12,9 @@ import {Type} from 'angular2/core';
 })
 export class TabsPage {
   // set the root pages for each tab
-  tab1Root: Type = SchedulePage;
-  tab2Root: Type = SpeakerListPage;
-  tab3Root: Type = MapPage;
-  tab4Root: Type = AboutPage;
+  tab1Root: Type = SpeakerListPage;
+  tab2Root: Type = MapPage;
+  tab3Root: Type = AboutPage;
 
   constructor(){
 
