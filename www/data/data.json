@@ -217,7 +217,7 @@
   ],
   "speakers": [
     {
-      "name": "** CityPark View - Save $250 with waived admin and app fee!",
+      "name": "*0* CityPark View - Save $250 with waived admin and app fee!",
       "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10_thumbnail.jpg",
       "twitter": "ericbobbitt",
       "about": "704-643-8310, Mon-Fri: 10:00am to 7:00pm, Sat: 9:00 to 6:00, Sun: 12:00am to 5:00pm",
@@ -226,28 +226,66 @@
       "price": "900 to 1100",
       "center": true, 
       "lat": "35.1826179",
-      "lon": "-80.9147837"
+      "lon": "-80.9147837",
+      "slide_urls": [
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_1.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_10.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_11.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_12.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_13.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_14.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_15.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_16.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_17.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_18.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_19.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_2.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_20.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_3.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_4.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_5.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_6.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_7.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_8.jpg", 
+                "https://clickpackmove.s3.amazonaws.com/media/photos/CityPark_View_9.jpg"
+            ]
     },
     {
       "name": "Eastover Ridge - SAVE $199! WAIVED ADMINISTRATIVE FEE!",
       "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/eastover-ridge-8_thumbnail.jpg",
       "twitter": "adamdbradley",
       "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "JUNCTION 1504",
       "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/158_thumbnail.JPG",
       "twitter": "brandyscarney",
-      "about": "When she isn't busy keeping her two chihuahuas from killing each other, Brandy can be found making the Ionic SDK pretty by means of Sass. She loves helping people while continuing to expand her own knowledge. After hours she can be found on her patio shopping online with a glass of wine in hand. Give her a glass and she'll write some Sass.",
-      "location": "Jacksonville, FL"
+      "about": "980-498-5969, TOURS BEGINNING IN MAY 2015!, Mon 9:00am - 6:00pm, Tues: 9:00am - 6:00pm, Wed: 9:00am - 6:00pm, Thu: 9:00am - 6:00pm, Fri: 9:00am - 6:00pm, Sat: 10:00am - 5:00pm, Sun: 1:00pm - 5:00pm",
+      "location": "Jacksonville, FL",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "pets": "Up to 2 pets.",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"      
     },
     {
       "name": "Marquis At Carmel Commons (The) SAVE $155!  REIMBURSED FOR APP AND ADMIN ON YOUR RENT",
       "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/marquis-at-carmel-commons-10_thumbnail.jpg",
       "twitter": "katiegv",
       "about": "Katie handles Ionic’s marketing, communications, and editorial, writing blog posts about unique Ionic apps and dreaming up new ways to bring Ionic to developers around the world. Outside the office, she can be found on land, running or hiking, or in the water, swimming and paddleboarding.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Post South End",
@@ -255,63 +293,108 @@
       "twitter": "perrygovier",
       "about": "Be it code, places, gadgets, food, or conversation, Perry loves to explore. While AFK he's probably biking around Madison, spending time with his wife and son, \"refactoring\" his house, or avoiding his overweight cat to whom he is very allergic and wishes was a dog.",
       "location": "Madison, WI",
-      "price": "1300 to 1450"
+      "price": "1300 to 1450",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Perimeter Lofts",
       "thumb": "https://clickpackmove.s3.amazonaws.com/media/photos/20131230_101313_thumbnail.jpg",
       "twitter": "mhartington",
       "about": "Deep in the frozen North, just before the great wall, a man sits with a laptop, surrounded by serval cups of coffee and a glass of whiskey. Traveling across this great kingdom, he enlightens other devs and shares his knowledge through the written and spoken word. When the laptop is not near, he often finds solace in music with his guitar.",
-      "location": "Rhode Island"
+      "location": "Rhode Island",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Dan Imhoff",
       "thumb": "https://pbs.twimg.com/profile_images/627907755743952896/TEEur1pK.jpg",
       "twitter": "dwieeb",
       "about": "Dan \"the Sunshine Man\" builds awesome stuff for the Ionic Platform. When not shredding it in Vim, he can be found tearing over snow in his fat bike, attending the Madison tech meetups, ignorantly rating restaurants, taking a bunch of photographs at random cities and National Parks, or, possibly, still playing LEGOs.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Brody Kidd",
       "thumb": "https://avatars0.githubusercontent.com/u/5280265?v=3",
       "twitter": "brodymkidd",
       "about": "If you can’t find him on call, shuffling through email, poking around on a new CRM, in our live chat support, or white boarding new business development… Odds are he is surfing lake Michigan, fly fishing the gin clear streams of the driftless region, camping in the north woods, or milking his goats.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Tim Lancina",
       "thumb": "https://avatars2.githubusercontent.com/u/804331?v=3",
       "twitter": "timlancina",
       "about": "A temporarily embarrassed pro soccer player, Tim is fond of traveling the world and trying to convince his coworkers to eat bugs.  When not doing either of those, he is usually breaking things related to Ionic tooling, the platform, or the framework.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Max Lynch",
       "thumb": "https://avatars3.githubusercontent.com/u/11214?v=3",
       "twitter": "maxlynch",
       "about": "Max loves using the power of software to make technology more accessible to people around the world. When not writing code or obsessing over a crazy new idea, he can be found watching the Premier League, riding Snowmobiles in a very safe manner, and hanging out with his wife Melissa and two Cavalier King Charles Spaniels.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Rudy Pelrine",
       "thumb": "https://avatars0.githubusercontent.com/u/1584992?v=3",
       "twitter": "Drawn_Closer",
       "about": "A musician, DJ, sound engineer, photographer, and self proclaimed fashion nerd, Rudy seems to find a new obsession daily.  At Ionic, you'll find him working on the Platform services, making sure everyone's notifications arrive safe and sound.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Drew Rygh",
       "thumb": "https://avatars2.githubusercontent.com/u/2018508?v=3",
       "twitter": "ionicframework",
       "about": "On most days, you will find Drew devising dazzling demos, drafting documentation, and consuming copious quantities of caffeine. He is obsessed with clarity, and making Ionic easy and fun to use. When not working, you might find him walking around the UW-Madison campus, where he is studying philosophy and computer science.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     },
     {
       "name": "Ben Sperry",
       "thumb": "https://avatars1.githubusercontent.com/u/519526?v=3",
       "twitter": "benjsperry",
       "about": "Ben is a user interface designer and front end tinkerer based in Madison, WI. He’s fascinated with making delightful human and machine interactions. He is also the co-founder of Ionic.",
-      "location": "Madison, WI"
+      "location": "Madison, WI",
+      "address": "1710 Piedmont Hills Place<br> Charlotte, NC", 
+      "price": "900 to 1100",
+      "center": true, 
+      "lat": "35.1826179",
+      "lon": "-80.9147837"
     }
   ],
 
