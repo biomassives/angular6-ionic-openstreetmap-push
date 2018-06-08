@@ -1,16 +1,21 @@
-# Ionic 2 Modified Conference Application
+# Ionic v5.0 alpha Modified Conference Application
 
-Experiments in preparation of a client app using the great ionic2 framework complete with angular2 internals, no jquery.
+# custom-ios, droid
+# real-estate-listings-app : ios/ droid
+
+
+Experiments in preparation of a client app using the great ionic5.0 framework complete with angular2 internals, no jquery.
 
 thank you.
 
 current work is focused around learning and demonstrating best practices for routing and ion-slider approaches
-in ionic2
+in ionic v5.0 alpha
 
 new typescript branch beinbg updated and added, which has proper data services for the maps and listings, working on 
 how to handle route or object queries via typescript.
 
-This is purely a demo of Ionic v2.0 alpha and is still in development. **There is not an actual Ionic Conference at this time.**
+This is purely a demo of Ionic v5.0 alpha and is still in development.
+
 
 ## Table of Contents
  - [Getting Started](#getting-started)
