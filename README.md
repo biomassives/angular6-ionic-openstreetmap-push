@@ -1,10 +1,11 @@
-# Ionic v5.0 alpha Modified Conference Application
+# Ionic angular6-ionic6-openstreetmap-push
 
 # custom-ios, droid
 # real-estate-listings-app : ios/ droid
 
+typed
 
-Experiments in preparation of a client app using the great ionic5.0 framework complete with angular2 internals, no jquery.
+Experiments in preparation of a client app using the great ionic.0 framework complete with angular2 internals.
 
 thank you.
 
@@ -32,7 +33,7 @@ This is purely a demo of Ionic v5.0 alpha and is still in development.
 * Run `npm install --production` on project root.
 * Install the ionic-cli if not already (`npm install -g ionic@alpha`)
 * Run `ionic serve` in project root.
-* Profit
+* go pro
 
 ## App Preview
 
